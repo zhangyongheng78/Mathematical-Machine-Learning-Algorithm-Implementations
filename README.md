@@ -11,3 +11,5 @@ Mathematical implementation of various machine learning algorithms:
 - SVM algorithms (primal form and dual form)
 
 - Generative models (Mixture model and Naive Bayes model)
+
+- Neural Networks (Sequential and Fully Connected model)
