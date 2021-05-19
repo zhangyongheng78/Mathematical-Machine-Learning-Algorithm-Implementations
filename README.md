@@ -9,3 +9,5 @@ Mathematical implementation of various machine learning algorithms:
 - LDA (train and classification), 
 
 - SVM algorithms (primal form and dual form)
+
+- Generative models (Mixture model and Naive Bayes model)
